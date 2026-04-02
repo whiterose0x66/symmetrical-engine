@@ -6,7 +6,6 @@ The Sierpinski Triangle is a famous self-similar fractal introduced by polish ma
    1) Start with an equilateral triangle.
    2)  Subdivide it into four smaller congruent equilateral triangles and remove the central triangle.
    3)   Repeat step 2 with each of the remaining smaller triangles infinitely.
-
-I will deal with other construction in the upcoming time.
+# I will deal with other construction in the upcoming time.
 
 
